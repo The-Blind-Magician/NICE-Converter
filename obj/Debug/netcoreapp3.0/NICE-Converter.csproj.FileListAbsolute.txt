@@ -1,0 +1,11 @@
+C:\Users\chris\Documents\GitHub\NICE-Converter\bin\Debug\netcoreapp3.0\NICE-Converter.exe
+C:\Users\chris\Documents\GitHub\NICE-Converter\bin\Debug\netcoreapp3.0\NICE-Converter.deps.json
+C:\Users\chris\Documents\GitHub\NICE-Converter\bin\Debug\netcoreapp3.0\NICE-Converter.runtimeconfig.json
+C:\Users\chris\Documents\GitHub\NICE-Converter\bin\Debug\netcoreapp3.0\NICE-Converter.runtimeconfig.dev.json
+C:\Users\chris\Documents\GitHub\NICE-Converter\bin\Debug\netcoreapp3.0\NICE-Converter.dll
+C:\Users\chris\Documents\GitHub\NICE-Converter\bin\Debug\netcoreapp3.0\NICE-Converter.pdb
+C:\Users\chris\Documents\GitHub\NICE-Converter\obj\Debug\netcoreapp3.0\NICE-Converter.csprojAssemblyReference.cache
+C:\Users\chris\Documents\GitHub\NICE-Converter\obj\Debug\netcoreapp3.0\NICE-Converter.AssemblyInfoInputs.cache
+C:\Users\chris\Documents\GitHub\NICE-Converter\obj\Debug\netcoreapp3.0\NICE-Converter.AssemblyInfo.cs
+C:\Users\chris\Documents\GitHub\NICE-Converter\obj\Debug\netcoreapp3.0\NICE-Converter.dll
+C:\Users\chris\Documents\GitHub\NICE-Converter\obj\Debug\netcoreapp3.0\NICE-Converter.pdb
